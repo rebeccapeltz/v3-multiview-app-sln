@@ -1,4 +1,4 @@
-# my-project
+# v3-multi-view-app
 
 ## Project setup
 ```
