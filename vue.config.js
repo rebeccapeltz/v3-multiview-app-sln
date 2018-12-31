@@ -15,6 +15,7 @@ module.exports = {
         sourceMap: true
     },
     baseUrl: '',
+    //build for docs folder to enable gh-pages hosting
     outputDir: './docs/',
     assetsDir: 'assets'
 }
