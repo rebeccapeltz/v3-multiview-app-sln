@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from './views/Home.vue'
-import Survey from './views/Survey.vue'
-import Secrets from './views/Secrets.vue'
+import Home from '@/views/Home.vue'
+import Survey from '@/views/Survey.vue'
+import Secrets from '@/views/Secrets.vue'
 
 Vue.use(Router)
 
